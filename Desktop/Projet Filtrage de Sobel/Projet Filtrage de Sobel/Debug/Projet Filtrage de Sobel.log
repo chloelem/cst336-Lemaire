@@ -1,0 +1,7 @@
+﻿  main.c
+c:\users\adrien\desktop\trainnig\projet filtrage de sobel\projet filtrage de sobel\main.c(132): warning C4018: '<' : incompatibilité signed/unsigned
+c:\users\adrien\desktop\trainnig\projet filtrage de sobel\projet filtrage de sobel\main.c(139): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+c:\users\adrien\desktop\trainnig\projet filtrage de sobel\projet filtrage de sobel\main.c(140): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+c:\users\adrien\desktop\trainnig\projet filtrage de sobel\projet filtrage de sobel\main.c(141): warning C4244: '=' : conversion de 'double' en 'unsigned char', perte possible de données
+  Projet Filtrage de Sobel.vcxproj -> C:\Users\Adrien\Desktop\Trainnig\Projet Filtrage de Sobel\Debug\Projet Filtrage de Sobel.exe
+  Projet Filtrage de Sobel.vcxproj -> C:\Users\Adrien\Desktop\Trainnig\Projet Filtrage de Sobel\Debug\Projet Filtrage de Sobel.pdb (Full PDB)

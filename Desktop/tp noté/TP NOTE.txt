@@ -1,0 +1,41 @@
+Préparation TP noté du vendredi 12 Mai :
+Sujets : 1 tri 
+
+#include<stdio.h>
+#define N10
+int main () 
+
+{
+int tab [10] = {0}; //soit vous initialisez en dur {3,6,8,2,5..}
+int i=0, valMax=0, indMax=0, j=0, int stock=0;
+
+// saisie des éléments                 permuter(&tab[j], &tab[indMax]);
+for (i=0; i<N; i++)
+{  printf("Entrez un élément :\n");
+
+scanf ("%d", &tab [i]); }
+//afficher le tableau non trié
+
+for (i=0; i<N; i++)
+printf ("%d\t", tab[i]); 
+
+//tri du tableau par sélection du maximum 
+valMax= tab[0]
+indMax=0; j=0;
+
+(Pour effacer un tri décroissant, on considère que tab[0] est le maximum
+valMax = tab[0];    si (tab[i]> valMax) Val max= tab[i]; )
+
+
+for (j=0; j<N; j++)
+for (i=j; i<N; i++)
+{ 
+   if(tab[i] > valMax)
+    {
+
+    valMax = tab[i];
+    indMax=i;
+    } 
+}
+stock= tab[j]; tab[j]= valMax;
+tab[indMax]= stock;

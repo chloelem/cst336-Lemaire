@@ -1,0 +1,21 @@
+The ocean looks blue because red, orange and yellow (long wavelength light) are absorbed more strongly 
+by water than is blue (short wavelength light). So when white light from the sun enters the ocean, 
+it is mostly the blue that gets returned. Same reason the sky is blue."
+In other words, the color of the ocean and the color of the sky are related but occur independently 
+of each other: in both cases, the preferential absorption of long-wavelength (reddish) light gives rise 
+to the blue. Note that this effect only works if the water is very pure; if the water is full of mud, 
+algae or other impurities, 
+the light scattered off these impurities will overwhelm the water's natural blueness.
+
+Pure water is of course clear. However if it is deep enough, so that light cannot reflect off the sea f
+loor, it appears dark blue. This is largely because of some basic physics.
+Water molecules are better at absorbing light that arrives in longer wavelengths, meaning the reds, oranges, 
+yellows and greens. This mostly leaves the blues, which have shorter wavelengths. As blue light is 
+less likely to be 
+absorbed, it can penetrate to deeper depths, making deep water look bluer.
+However, the purity of sea water varies. Particles suspended within it can increase the scattering of light. 
+Sand and silt carried into the sea from rivers, or kicked up from the 
+seafloor by waves and storms, can affect the colours of coastal waters. 
+And organic detritus such as decayed plant matter - known to scientists as colour dissolved 
+organic matter - 
+can also complicate the picture, by adding greens, yellows or browns.
