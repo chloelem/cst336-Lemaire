@@ -10,13 +10,13 @@
     
     <body>
         <header>
-             <h1>Chloé Lemaire</h1>
+             <h1>Chloe Lemaire</h1>
         </header>
         <nav>
             <hr width ="50%"/>
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a id="underline" href="contact.html">Contact</a>
+            <a href="index.php">Home</a>
+            <a href="about.php">About</a>
+            <a id="underline" href="contact.php">Contact</a>
         </nav>
                 
         <br /><br />
@@ -25,7 +25,7 @@
 
                 
                 <div id="content">
-                   <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeAPEdh29POsfJIVHlb0szyYf3zEhu1_ch8kwpahdtNAdP90Q/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+                   <center><iframe src="https://docs.google.com/forms/d/e/1FAIpQLScsmBFXRb1d1BwRf17g8NZUXT8kMYmupYtnY5yLVc4cjloraA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours…</iframe> </center>
                 </div>
                 
         </main>

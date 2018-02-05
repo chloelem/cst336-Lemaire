@@ -30,9 +30,9 @@ in html
         </header>
         <nav>
         <hr widht="50%"/>
-        <a href= "index.html" id="underline"> Home </a>
-        <a href= "about.html"> About </a>
-        <a href= "contact.html"> Contact </a>
+        <a href= "index.php" id="underline"> Home </a>
+        <a href= "about.php"> About </a>
+        <a href= "contact.php"> Contact </a>
         
         </nav>
         
